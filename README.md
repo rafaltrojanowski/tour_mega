@@ -1,5 +1,5 @@
 Running tests:
 
 ```
-rspec sales_taxes_spec.rb
+rspec sale_tax_spec.rb
 ```

@@ -1,6 +1,6 @@
 require_relative 'item'
 
-class SalesTaxes
+class SaleTax
 
   attr_reader :output
 
